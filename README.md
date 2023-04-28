@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Expense Tracker](https://github.com/RahatBJIT/ExpenseTracker)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Spring Boot, Java**
 
 - 💬 Ask me about **Java, React Native**
 
