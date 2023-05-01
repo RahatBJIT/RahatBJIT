@@ -107,11 +107,20 @@ Reliable, energetic and creative Web and Mobile Application Developer with proje
 - **Online Paying Guest** (*PHP, HTML, CSS, JS and MySQL*)
 - **Focus Timer** (*React Native*)
 - **Photo Editing App** (*React Native*)
+- **Object Augmentation on live camera** (*React Native*)
 - **Student Mark Management System** (*React and Firebase*)
-- **3D Portfolio Webpage** (*Three JS*)
-
-
+- **Robo Friends Fun Project** (*React and Firebase*)
+- **Employee Registration and Management System** (*React Native and Firebase*)
+- **Tode List Sharing Application** (*React and Firebase*)
+- **Tode List** (*Angular*)
+- **3D Portfolio Website** (*Three JS*)
+- **Bangla Fake News Detection** (*ML and Streamlit*)
+- 
 <br>
+
+## Additional Courses
+- [Web Development](https://drive.google.com/file/d/1CDWBlwpYArOxGSWOQf58uc-s6yNNYA9n/view) Under NASSCOM IT-ITES Sector Skill Council (SSC) Certification.
+
 
 ### Training 📚
 - J2EE in BJIT
