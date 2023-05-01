@@ -115,7 +115,6 @@ Reliable, energetic and creative Web and Mobile Application Developer with proje
 - **Tode List** (*Angular*)
 - **3D Portfolio Website** (*Three JS*)
 - **Bangla Fake News Detection** (*ML and Streamlit*)
-- 
 <br>
 
 ## Additional Courses
