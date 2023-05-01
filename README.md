@@ -11,13 +11,13 @@ Reliable, energetic and creative Web and Mobile Application Developer with proje
 ## Connect with me 📠
 <p align="left">
  
-<a href="https://linkedin.com/in/rahat-ibna-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahat-ibna-hossain" height="30" width="40" /></a>
-<a href="https://fb.com/rahatibnahossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahatibnahossain" height="30" width="40" /></a>
-<a href="https://twitter.com/rahat1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahat1x" height="30" width="40" /></a>
- <a href="https://kaggle.com/rahatibnahossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rahatibnahossain" height="30" width="40" /></a>
-<a href="https://instagram.com/rahatibnahossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahatibnahossain" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rahatibnahossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rahatibnahossain" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rahatibnahossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahatibnahossain" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/rahat-ibna-hossain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahat-ibna-hossain" height="30" width="40" /></a>
+<a href="https://fb.com/rahatibnahossain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahatibnahossain" height="30" width="40" /></a>
+<a href="https://twitter.com/rahat1x" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahat1x" height="30" width="40" /></a>
+ <a href="https://kaggle.com/rahatibnahossain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rahatibnahossain" height="30" width="40" /></a>
+<a href="https://instagram.com/rahatibnahossain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahatibnahossain" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rahatibnahossain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rahatibnahossain" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rahatibnahossain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahatibnahossain" height="30" width="40" /></a>  
 </p>
 
 <br>
