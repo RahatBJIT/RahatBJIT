@@ -20,6 +20,10 @@ Reliable, energetic and creative Web and Mobile Application Developer with proje
 <a href="https://www.leetcode.com/rahatibnahossain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahatibnahossain" height="30" width="40" /></a>  
 </p>
 
+
+My Email Address : **rahat.hossain@bjitacademy.com**
+
+
 <br>
 
 ## Work Experience 💻 
@@ -42,7 +46,7 @@ Reliable, energetic and creative Web and Mobile Application Developer with proje
     - GPA: 5.00 out of 5.00
 <br>
 
-## Skills 📝
+## Skills 📚
 
 ### Programming Languages
 <p align="left"> 
@@ -104,6 +108,14 @@ Reliable, energetic and creative Web and Mobile Application Developer with proje
 
 <br>
 
+## Current Status ✍
+
+- I’m currently working on [Expense Tracker](https://github.com/RahatBJIT/ExpenseTracker)
+- I’m currently learning **Spring Boot, Java**
+- Ask me about **Java, React Native**
+
+
+
 ## Projects 📁
 
 - **Meld Online Dating App** (*React Native, Expo and Firebase*)
@@ -122,7 +134,7 @@ Reliable, energetic and creative Web and Mobile Application Developer with proje
 - **Bangla Fake News Detection** (*ML and Streamlit*)
 <br>
 
-## Additional Courses
+## Additional Courses 🌟
 ### Web Development
 - [Web Development](https://drive.google.com/file/d/1CDWBlwpYArOxGSWOQf58uc-s6yNNYA9n/view) Under NASSCOM IT-ITES Sector Skill Council (SSC) Certification.
 - [Web app using PHP & MySQL](https://drive.google.com/file/d/1qwcCQPqmnLkyKgN1YczX34Fcgu6QeUEe/view) authorized by Coursera Project Network and offered through Coursera.
@@ -137,32 +149,6 @@ Reliable, energetic and creative Web and Mobile Application Developer with proje
 
 
 
-
-### Training 📚
-- J2EE in BJIT
-- Nascom Web Development
-
-
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahatbjit&label=Profile%20views&color=0e75b6&style=flat" alt="rahatbjit" /> </p>
-
-
-Reliable, energetic and creative Web Designer with project management skills. I am also studying B.Sc. on Computer Science and Engineering. I also 
-know the cutting-edge technologies available in market. 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/RahatBJIT/ExpenseTracker)
-
-- 🌱 I’m currently learning **Spring Boot, Java**
-
-- 💬 Ask me about **Java, React Native**
-
-- 📫 How to reach me **rahat.hossain@bjitacademy.com**
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
 <h3 align="left">📈 GitHub Stats</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahatbjit" alt="rahatbjit" /></a> </p>
 
@@ -171,4 +157,3 @@ know the cutting-edge technologies available in market.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahatbjit&show_icons=true&locale=en" alt="rahatbjit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahatbjit&" alt="rahatbjit" /></p>
-<h3 align="left">💻 Github Repositories</h3>
