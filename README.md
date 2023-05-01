@@ -24,16 +24,14 @@ Reliable, energetic and creative Web and Mobile Application Developer with proje
 
 ## Work Experience 💻 
 - **Trainee Software Engineer**, **[BJIT Academy](https://www.bjitacademy.com)**, *April 2023 - Present*
+     - Full-stack Web Developer (Java EE) <br>
 - **Intern**, **[Meld](https://www.meldate.online)**, *January 2023 - April 2023*
-- **Intern**, **[Codexpert](https://codexpert.io)**, *April 2023 - Present*
-- **Intern**, **[Medl]()**, *April 2023 - Present*
-- **Intern**, **[Medl]()**, *April 2023 - Present*
-- 
-- **Trainee Software Engineer**, **[BJIT Academy](https://www.bjitacademy.com)**, *April 2023 - Present*
-- **Trainee Software Engineer**, **[BJIT Academy](https://www.bjitacademy.com)**, *April 2023 - Present*
-- BJIT, Java Web Developer, Trainee Software Engineer<br />
-- Meld, React Native, Internship<br />
-- Codexpert, Wordpress Plugin Developer, Internship<br />
+     - React Native Developer <br>
+- **Intern**, **[Codexpert](https://codexpert.io)**, *August 2021 - November 2021*
+     - WordPress Plugin Developer <br>
+- **Volunteer**, **[UNDP Timor Leste](https://www.undp.org/timor-leste)**, *March 2021 - May 2021*
+     - Web Developer (PHP) <br>
+<br>
 
 ## 🎓 Education
 - Jashore University of Science and Technology, BSc in CSE, 2023
