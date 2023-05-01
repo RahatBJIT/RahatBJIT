@@ -101,17 +101,16 @@ Reliable, energetic and creative Web and Mobile Application Developer with proje
 
 ## Projects 📁
 
-- **Online Travel Guide** (*PHP, HTML, CSS and MySQL*)
+- **Meld Online Dating App** (*React Native, Expo and Firebase*)
+- **Online Consultation System** (*PHP, HTML, CSS, JS and MySQL*)
+- **Blood Bank Management System** (*PHP, HTML, CSS, JS and MySQL*)
+- **Online Paying Guest** (*PHP, HTML, CSS, JS and MySQL*)
+- **Focus Timer** (*React Native*)
+- **Photo Editing App** (*React Native*)
+- **Student Mark Management System** (*React and Firebase*)
+- **3D Portfolio Webpage** (*Three JS*)
 
-- **Android Texting App** (*Java, XML*)
 
-- **Library Management Systeme** (*Java and MySQL*)
-
-- **Real Time Fire Detection System** (*Arduino, Proteus and LabVIEW*)
-
-- **Object Recognition and PID Implemented Line Follower Robot** (*Webots, Python*)
-
-- **Novel Approach to Detect Hate Speech and Profanity on Online Platforms** (*Research*)
 <br>
 
 ### Training 📚
