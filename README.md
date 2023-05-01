@@ -119,7 +119,19 @@ Reliable, energetic and creative Web and Mobile Application Developer with proje
 <br>
 
 ## Additional Courses
+### Web Development
 - [Web Development](https://drive.google.com/file/d/1CDWBlwpYArOxGSWOQf58uc-s6yNNYA9n/view) Under NASSCOM IT-ITES Sector Skill Council (SSC) Certification.
+- [Web app using PHP & MySQL](https://drive.google.com/file/d/1qwcCQPqmnLkyKgN1YczX34Fcgu6QeUEe/view) authorized by Coursera Project Network and offered through Coursera.
+- [Technical Support Fundamentals](https://drive.google.com/file/d/1EV0XSRWHi-xSsTr1YhrsjfZjdDQy2UgS/view) authorized by Google and offered through Coursera.
+### Machine Learning and Deep Learning
+- [Machine Learning for All](https://drive.google.com/file/d/1JfqqwgLiiK6XLVpufPu5-zcQ6ZB0WMB1/view) authorized by University of London and offered through Coursera.
+- [Introduction to Deep Learning](https://drive.google.com/file/d/11M63vXF4iHCr7yfZ5a7iThcwfHYA_1I8/view) authorized by National Research University Higher School of Economics and offered through Coursera.
+- [Getting Started with AI using IBM Watson](https://drive.google.com/file/d/1rSnaNBJJ9HXyZH7M_ACEN-Pac8jBNYsb/view) authorized by IBM and offered through Coursera.
+- [Building Smart Business Assistants with IBM Watson](https://drive.google.com/file/d/1Gnu-B_5jQsUOTUZR1TcX-WX3E7C8LU6N/view) authorized by Coursera Project Network and offered through Coursera.
+
+
+
+
 
 
 ### Training 📚
