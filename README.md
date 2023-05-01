@@ -98,6 +98,22 @@ Reliable, energetic and creative Web and Mobile Application Developer with proje
 
 
 <br>
+
+## Projects 📁
+
+- **Online Travel Guide** (*PHP, HTML, CSS and MySQL*)
+
+- **Android Texting App** (*Java, XML*)
+
+- **Library Management Systeme** (*Java and MySQL*)
+
+- **Real Time Fire Detection System** (*Arduino, Proteus and LabVIEW*)
+
+- **Object Recognition and PID Implemented Line Follower Robot** (*Webots, Python*)
+
+- **Novel Approach to Detect Hate Speech and Profanity on Online Platforms** (*Research*)
+<br>
+
 ### Training 📚
 - J2EE in BJIT
 - Nascom Web Development
