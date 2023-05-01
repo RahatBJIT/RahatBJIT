@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rahat Ibna Hossain</h1>
 <br> 
 
-## About Me 🙋🏻‍♀️ 
+## About Me 🤵
 <p align="justify">
 Reliable, energetic and creative Web and Mobile Application Developer with project management skills. Completed B.Sc. on Computer Science and Engineering from Jashore University of Science and Technology. Worked as a Trainee Software Engineer at BJIT Academy as a full-stack Java EE developer. Also worked as a React Native Developer Intern at Meld. Also worked as Wordpress Plugin Developer Intern at Codexpert. Also worked as a Volunteer Web Developer at UNDP Timor Leste. Always determined to learn the cutting-edge technologies available in market.
 </p>
 <br>
 
 
-## Connect with me 📠
+## Connect with me 🤝
 <p align="left">
  
 <a href="https://linkedin.com/in/rahat-ibna-hossain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahat-ibna-hossain" height="30" width="40" /></a>
@@ -33,10 +33,16 @@ Reliable, energetic and creative Web and Mobile Application Developer with proje
      - Web Developer (PHP) <br>
 <br>
 
-## 🎓 Education
-- Jashore University of Science and Technology, BSc in CSE, 2023
+## Education 🎓
+- **[Jashore University of Science and Technology](https://just.edu.bd)**, BSc in CSE, *2023*
+    - CGPA: 3.33 out of 4.00
+- **[Govt. Science College](http://www.gsctd.edu.bd)** , HSC, *2016* 
+    - GPA: 4.83 out of 5.00
+- **[Govt. Kalachandpur High School and College](http://www.gkumb.edu.bd)** , SSC, *2014*
+    - GPA: 5.00 out of 5.00
+<br>
 
-## 📚 Training
+## Training 📚
 - J2EE in BJIT
 - Nascom Web Development
 
